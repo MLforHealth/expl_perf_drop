@@ -1,7 +1,4 @@
 plots/
-expl_dist_shift/data/data_eicu_extract.csv
-read_eicu_data.ipynb
-sample_expls_eicu.py
 *.pkl
 *.h5
 *.csv
@@ -25,6 +22,7 @@ test/
 MANIFEST
 build
 dist
+expl_perf_drop.egg-info
 _build
 docs/man/*.gz
 docs/source/api/generated

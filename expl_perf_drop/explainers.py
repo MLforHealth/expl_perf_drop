@@ -99,7 +99,7 @@ class CGExplainerDR(CGExplainer):
                  model_type_cont = LinearRegression(), density_estimator = 'proba', calibrate_weight_models = False,
                  clip_weight_thres = None, clip_prob_thres = None, imp_weight_type = 'normal', shapley_method = 'AUTO',
                  exclude_dists = []):
-        f'''
+        '''
         cgm: expl_perf_drop.utils.Graph
             Causal graphical model.
         source_train_df : pandas.DataFrame

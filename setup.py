@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='expl_perf_drop',
-      version='0.4',
+      version='0.5',
       description='Attributing performance drops to distribution shifts',
       url='https://github.com/MLforHealth/expl_perf_drop',
       author='Haoran Zhang',

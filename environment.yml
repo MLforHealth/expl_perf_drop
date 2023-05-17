@@ -1,0 +1,6 @@
+name: expl_perf_drop
+dependencies:
+- python=3.7
+- pip
+- pip:
+    - -r requirements.txt
